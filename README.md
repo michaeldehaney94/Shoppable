@@ -1,3 +1,8 @@
+<img src="/src/assets/homepage.JPG" ><br>
+<img src="/src/assets/cart.JPG" ><br>
+<img src="/src/assets/checkout.JPG" ><br>
+<img src="/src/assets/payment.JPG" ><br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
